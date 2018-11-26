@@ -51,11 +51,6 @@ date_default_timezone_set($timezone); //北京时间
 ## 4、完成
 ## 5、部分界面
 
-<style type="text/css">
-	.pic_list{
-		display: flex;
-	}
-</style>
 <div class="pic_list">
 <img src="./media/1627aab9337b5f6aac9e31afb0430e36.png">
 <img src="./media/1a5cdf4ce6606ed9f8a0436a3f734045.png">
