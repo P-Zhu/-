@@ -48,8 +48,7 @@ header("Content-Type: text/html; charset=utf-8");
 date_default_timezone_set($timezone); //北京时间
 ```
 
-## 4、完成
-## 5、部分界面
+## 4、部分界面
 
 <div class="pic_list">
 <img src="./media/01.png"></img>
